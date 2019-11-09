@@ -1,11 +1,5 @@
-#name:		Thomas Wright
-#studentID:	260769898
-
 .data
 
-#Must use accurate file path.
-#file paths in MARS are relative to the mars.jar file.
-# if you put mars.jar in the same folder as test2.txt and your.asm, input: should work.
 input:	.asciiz "test1.txt"
 output:	.asciiz "borded.pgm"	#used as output
 
